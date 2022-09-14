@@ -13,3 +13,4 @@
     Git commit —amend : 
     Git tag : ajoute un message \
     Git config user.email ou user.name : permet de faire le log \
+    Git checkout : permet de basculer de branch\
