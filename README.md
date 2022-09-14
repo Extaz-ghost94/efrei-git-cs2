@@ -14,3 +14,5 @@
     Git tag : ajoute un message \
     Git config user.email ou user.name : permet de faire le log \
     Git checkout : permet de basculer de branch\
+    Git branch -d <nom_branche> : supprimer la branche en question
+    Git checkout -b feature/add_sentence_3 : créé la branche et se place dessus direct
