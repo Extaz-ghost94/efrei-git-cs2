@@ -11,5 +11,5 @@
     Git show : montre le dernier commit et ses infos \
     Git restore : 
     Git commit —amend : 
-    Git tag : montre les versions des commit effecutés \
+    Git tag : ajoute un message \
     Git config user.email ou user.name : permet de faire le log \
